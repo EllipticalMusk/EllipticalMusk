@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omar khalil  
-- 👀 I’m interested in Operating Systems & Kernel Development &
+- 👀 I’m interested in Operating Systems & Kernel Development 
 - 🌱 I’m currently learning to be a Full-Stack Developer
-- 📫 How to reach me :vipegypt3000@gmail.com
+- 📫 How to reach me : vipegypt3000@gmail.com
   
 
 <!---
