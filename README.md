@@ -133,8 +133,8 @@ Algorithms, databases, OOP, web development, and software engineering coursework
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="vipegypt3000@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:vipegypt3000@gmail.com?subject=Hello%20Omar">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/omar-khalil-a723b3280/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
