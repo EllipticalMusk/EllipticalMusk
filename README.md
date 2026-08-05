@@ -72,9 +72,6 @@ Building reliable software, learning every day, and turning ideas into practical
 ### 🌐 Portfolio Website
 A responsive portfolio website showcasing my work and skills.
 
-### 🧴 Perfume Management System
-Desktop application for inventory management and custom perfume mixtures.
-
 ### 🎓 University Projects
 Algorithms, databases, OOP, web development, and software engineering coursework.
 
@@ -136,10 +133,10 @@ Algorithms, databases, OOP, web development, and software engineering coursework
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:your@email.com">
+  <a href="vipegypt3000@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/...">
+  <a href="https://www.linkedin.com/in/omar-khalil-a723b3280/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/EllipticalMusk">
@@ -148,13 +145,13 @@ Algorithms, databases, OOP, web development, and software engineering coursework
   <a href="https://gitlab.com/...">
     <img src="https://skillicons.dev/icons?i=gitlab" />
   </a>
-  <a href="https://codeforces.com/profile/...">
-    <img src="https://cdn.simpleicons.org/codeforces" width="48"/>
+  <a href="https://codeforces.com/profile/Elliptical">
+    <img src="https://cdn.simpleicons.org/codeforce" width="48"/>
   </a>
-  <a href="https://leetcode.com/u/...">
+  <a href="https://leetcode.com/u/OmarHamdy120/">
     <img src="https://cdn.simpleicons.org/leetcode" width="48"/>
   </a>
-  <a href="https://stackoverflow.com/users/...">
+  <a href="https://stackoverflow.com/users/24840517/ellitical-musk">
     <img src="https://cdn.simpleicons.org/stackoverflow" width="48"/>
   </a>
   <a href="YOUR_CV_LINK">
