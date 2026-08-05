@@ -133,14 +133,33 @@ Algorithms, databases, OOP, web development, and software engineering coursework
 
 ---
 
-# 📫 Connect With Me
+## 🌐 Connect with Me
 
-<p>
-
-<a href="https://github.com/EllipticalMusk">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+<p align="center">
+  <a href="mailto:your@email.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/...">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/EllipticalMusk">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://gitlab.com/...">
+    <img src="https://skillicons.dev/icons?i=gitlab" />
+  </a>
+  <a href="https://codeforces.com/profile/...">
+    <img src="https://cdn.simpleicons.org/codeforces" width="48"/>
+  </a>
+  <a href="https://leetcode.com/u/...">
+    <img src="https://cdn.simpleicons.org/leetcode" width="48"/>
+  </a>
+  <a href="https://stackoverflow.com/users/...">
+    <img src="https://cdn.simpleicons.org/stackoverflow" width="48"/>
+  </a>
+  <a href="YOUR_CV_LINK">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" />
+  </a>
 </p>
 
 ---
