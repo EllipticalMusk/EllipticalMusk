@@ -169,25 +169,3 @@ Algorithms, databases, OOP, web development, and software engineering coursework
 
 </div>
 
-<!--
-=================================================
-OPTIONAL EXTRAS
-=================================================
-
-To enable the contribution snake animation:
-
-1. Create:
-.github/workflows/snake.yml
-
-2. Use Platane's snake generator:
-https://github.com/Platane/snk
-
-3. Add this image to your README:
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/EllipticalMusk/EllipticalMusk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
-=================================================
--->
-```
