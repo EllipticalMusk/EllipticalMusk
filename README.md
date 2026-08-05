@@ -112,20 +112,8 @@ Algorithms, databases, OOP, web development, and software engineering coursework
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EllipticalMusk&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
 # 📌 Pinned Repositories
 
-> GitHub will automatically show your pinned repositories on your profile. Consider pinning:
->
 > - Portfolio Website
 > - Perfume Management System
 > - University Projects
@@ -159,13 +147,7 @@ Algorithms, databases, OOP, web development, and software engineering coursework
 
 <div align="center">
 
-### 💡 Favorite Quote
 
-*"First, solve the problem. Then, write the code."* — John Johnson
-
----
-
-⭐ Thanks for visiting my profile!
 
 </div>
 
